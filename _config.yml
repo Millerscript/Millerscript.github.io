@@ -1,0 +1,5 @@
+title: Duscy
+description: Terms and Conditions and Privacy Policy for Duscy App
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-seo-tag
