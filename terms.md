@@ -1,3 +1,8 @@
+---
+layout: default
+title: Terms and Conditions
+---
+
 # Terms and Conditions for Duscy
 
 **Last Updated:** October 26, 2023
